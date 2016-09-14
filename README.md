@@ -1,5 +1,5 @@
 # :camera: Image Namer
-> A tiny cli process to move around image files
+> A node cli process to rename image files
 
 ### Goal
 Provide an automated way of inspecting images and naming them something a bit more meaningful
