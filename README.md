@@ -22,3 +22,4 @@ Image Namer will look in `./processing/input` for images. For each image it find
   - `nvm use`
   - `npm install`
   - `npm start`
+  - Check the `output` directory
