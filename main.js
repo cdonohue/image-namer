@@ -8,7 +8,7 @@ const { copyAndSave, shrink } = require("./src/imageUtils");
 // https://googlecloudplatform.github.io/google-cloud-node/#/docs/google-cloud/0.40.0/google-cloud
 const vision = require("./src/vision")({
   projectId: "name-of-project",
-  keyFilename: "path/to/secrets.json",
+  keyFilename: path.resolve("./secrets.json"),
 });
 
 const spinner = ora({
