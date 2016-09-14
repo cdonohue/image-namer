@@ -7,7 +7,7 @@ const { copyAndSave, shrink } = require("./src/imageUtils");
 
 // https://googlecloudplatform.github.io/google-cloud-node/#/docs/google-cloud/0.40.0/google-cloud
 const vision = require("./src/vision")({
-  projectId: "name-of-project",
+  projectId: "name-of-project", // CHANGE THIS
   keyFilename: path.resolve("./secrets.json"),
 });
 
