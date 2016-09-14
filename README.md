@@ -8,7 +8,7 @@ Provide an automated way of inspecting images and naming them something a bit mo
 Image Namer will look in `./processing/input` for images. For each image it finds, it will detect features of the images and copy the image to `./processing/output` with a more readable name. 
 
 ### Demo
-
+![Demo](demo.gif)
 
 ### Setup
 > :battery: Batteries are not completely included in this due to the fact that the *Google Cloud Vision API* has quotas. 
