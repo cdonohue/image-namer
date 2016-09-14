@@ -1,6 +1,6 @@
 {
-  "name": "wallpaper-bot",
-  "version": "1.0.0",
+  "name": "image-namer",
+  "version": "0.1.0",
   "description": "A tiny cli process to move around image files",
   "main": "main.js",
   "scripts": {
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cdonohue/wallpaper-bot.git"
+    "url": "git+https://github.com/cdonohue/image-namer.git"
   },
   "keywords": [],
   "author": "Chad Donohue <chad.donohue@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cdonohue/wallpaper-bot/issues"
+    "url": "https://github.com/cdonohue/image-namer/issues"
   },
-  "homepage": "https://github.com/cdonohue/wallpaper-bot#readme",
+  "homepage": "https://github.com/cdonohue/image-namer#readme",
   "dependencies": {
     "google-cloud": "0.40.0",
     "lodash": "4.15.0",
